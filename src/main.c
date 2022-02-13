@@ -10,6 +10,7 @@ int main(){
 	printf("Engenharia de Computação\n");
 	printf("Leonardo Campos\n");
 	printf("\n\n\n");
+	printf("Matriz de Adjacência\n");
 
 	FILE *file1, *file2, *file3;
 	Graph G = GraphInitialize(10);
